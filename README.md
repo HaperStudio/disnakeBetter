@@ -1,5 +1,6 @@
 <img src="https://github.com/HaperStudio/disnakeBetter/blob/main/img/disnakeBetterLogo.png" width="25%" height="auto">
-<img src="https://github.com/HaperStudio/disnakeBetter/blob/main/img/disnakeBetter.png" width="25%" height="auto">
+<img src="https://github.com/HaperStudio/disnakeBetter/blob/main/img/disnakeBetter.png" width="10%" height="auto">
+
 # disnakeBetter
 
 <h2 align="center">This library is currently under development.</h2>
