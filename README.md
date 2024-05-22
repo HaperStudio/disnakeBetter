@@ -4,9 +4,8 @@
 
 <h2 align="center">This library is currently under development.</h2>
 
-<img src="https://github.com/HaperStudio/disnakeBetter/blob/main/img/disnakeBetter.jpg" width="15%" height="auto">
 <a href="https://github.com/HaperStudio/disnakeBetter/" tabindex="-1">
-<img src="https://github.com/HaperStudio/disnakeBetter/blob/main/img/disnakeBetter2.jpg" width="12%" height="auto">
+<img src="https://github.com/HaperStudio/disnakeBetter/blob/main/img/disnakeBetter.jpg" width="15%" height="auto">
 </a>
 <a href="https://github.com/HaperStudio/disnakeBetter/" tabindex="-1">
 <img src="https://img.shields.io/github/repo-size/HaperStudio/disnakeBetter?style=for-the-badge" alt="Repo Size"/>
