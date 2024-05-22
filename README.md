@@ -4,7 +4,7 @@
 
 <h2 align="center">This library is currently under development.</h2>
 
-<img src="https://github.com/HaperStudio/disnakeBetter/blob/main/img/disnakeBetter.jpg" width="12%" height="auto">
+<img src="https://github.com/HaperStudio/disnakeBetter/blob/main/img/disnakeBetter.jpg" width="13%" height="auto">
 
 ## About
 ### <strong>disnakeBetter</strong> is an extension for working in conjunction with the disnake standard library.
