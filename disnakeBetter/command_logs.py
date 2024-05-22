@@ -1,9 +1,9 @@
 """
 
-Copyright (C) 2024 Jupiter404E.
+Copyright (C) 2024 HåperStudio.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:copyright: (c) 2024 present Jupiter404E
+:copyright: (c) 2024 present HåperStudio
 :license: MPL-2.0 license, see LICENSE for more details.
 
 """
