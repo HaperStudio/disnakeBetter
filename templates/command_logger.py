@@ -3,7 +3,6 @@ from disnake.ext import commands
 
 # Import disnakeBetter
 import disnakeBetter
-from disnakeBetter.ext import BotWebSocket
 
 # Set bot configs
 intents = disnake.Intents.default()
