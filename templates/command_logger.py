@@ -10,11 +10,11 @@ intents = disnake.Intents.default()
 bot = commands.Bot(command_prefix = '!', intents = intents)
 
 # Set logger configs
-logger_errors = disnakeBetter.LoggerCommands(r'logger\commands.txt', color = False)
+logger_commands = disnakeBetter.LoggerCommands(r'logger\commands.txt', color = False)
 
 # Testing command
 @bot.command()
-@logger_errors.command(slash = False) # Add logger decorator
+@logger_commands.command(slash = False) # Add logger decorator
 async def ping(inter: disnake.AppCmdInter):
     await inter.send("Pong!")
 
