@@ -13,3 +13,7 @@
 ```commandline
 pip install git+https://github.com/Jupiter404E/disnakeBetter
 ```
+
+<a href="https://github.com/HaperStudio/disnakeBetter/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=HaperStudio/disnakeBetter"/>
+</a>
