@@ -7,9 +7,7 @@ from disnakeBetter.ext import BotWebSocket
 
 # Set bot configs
 intents = disnake.Intents.default()
-intents.message_content = True
-
-bot = commands.Bot(command_prefix = 'test.', intents = intents)
+bot = commands.Bot(command_prefix = '!', intents = intents)
 
 # Set logger configs
 logger_errors = disnakeBetter.LoggerCommands(r'logger\commands.txt', color = False)
