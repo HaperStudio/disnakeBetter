@@ -8,8 +8,6 @@ from disnakeBetter.ext import BotWebSocket
 
 # Set bot configs
 intents = disnake.Intents.default()
-intents.message_content = True
-
 bot = commands.Bot(command_prefix = '!', intents = intents)
 
 # Testing command
