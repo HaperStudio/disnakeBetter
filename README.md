@@ -11,7 +11,7 @@
 
 ### Installing from Git:
 ```commandline
-pip install git+https://github.com/Jupiter404E/disnakeBetter
+pip install git+https://github.com/HaperStudio/disnakeBetter
 ```
 
 ---
