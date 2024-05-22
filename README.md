@@ -4,18 +4,10 @@
 
 <h2 align="center">This library is currently under development.</h2>
 
-<a href="https://github.com/HaperStudio/disnakeBetter/" tabindex="-1">
 <img src="https://github.com/HaperStudio/disnakeBetter/blob/main/img/disnakeBetter.jpg" width="15%" height="auto" alt="disnakeBetter">
-</a>
-<a href="https://github.com/HaperStudio/disnakeBetter/" tabindex="-1">
 <img src="https://img.shields.io/github/repo-size/HaperStudio/disnakeBetter?style=for-the-badge" alt="Repo Size"/>
-</a>
-<a href="https://github.com/HaperStudio/disnakeBetter/" tabindex="-1">
 <img src="https://img.shields.io/github/last-commit/HaperStudio/disnakeBetter?style=for-the-badge" alt="GitHub last commit"/>
-</a>
-<a href="https://github.com/HaperStudio/disnakeBetter/" tabindex="-1">
 <img src="https://img.shields.io/github/commit-activity/m/HaperStudio/disnakeBetter?style=for-the-badge" alt="GitHub commit activity"/>
-</a>
 
 
 ## About
