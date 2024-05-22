@@ -5,7 +5,7 @@
 <h2 align="center">This library is currently under development.</h2>
 
 
-<img src="https://github.com/HaperStudio/disnakeBetter/blob/main/img/disnakeBetter.jpg" width="15%" height="auto" alt="disnakeBetter"><img src="https://img.shields.io/github/repo-size/HaperStudio/disnakeBetter?style=for-the-badge" alt="Repo Size"/><img src="https://img.shields.io/github/last-commit/HaperStudio/disnakeBetter?style=for-the-badge" alt="GitHub last commit"/><img src="https://img.shields.io/github/commit-activity/m/HaperStudio/disnakeBetter?style=for-the-badge" alt="GitHub commit activity"/>
+<img src="https://github.com/HaperStudio/disnakeBetter/blob/main/img/disnakeBetter.jpg" width="15%" height="auto" alt="disnakeBetter"> <img src="https://img.shields.io/github/repo-size/HaperStudio/disnakeBetter?style=for-the-badge" alt="Repo Size"/> <img src="https://img.shields.io/github/last-commit/HaperStudio/disnakeBetter?style=for-the-badge" alt="GitHub last commit"/> <img src="https://img.shields.io/github/commit-activity/m/HaperStudio/disnakeBetter?style=for-the-badge" alt="GitHub commit activity"/>
 
 
 ## About
