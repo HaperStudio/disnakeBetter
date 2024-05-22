@@ -1,9 +1,8 @@
-import disnake, sys
+import disnake
 from disnake.ext import commands
 from disnake.gateway import DiscordWebSocket
 
 # Import disnakeBetter
-import disnakeBetter
 from disnakeBetter.ext import BotWebSocket
 
 # Set bot configs
