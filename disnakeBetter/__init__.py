@@ -18,4 +18,4 @@ __all__ = [
     'LoggerCommands'
 ]
 
-from .command_logs import LoggerCommands#, LoggerErrors
+from .command_logs import LoggerCommands
