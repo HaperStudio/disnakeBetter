@@ -1,4 +1,4 @@
-<img src="https://github.com/HaperStudio/disnakeBetter/blob/main/img/disnakeBetterLogo.png" width="25%" height="auto">
+<img src="https://github.com/HaperStudio/disnakeBetter/blob/main/img/banne.png" width="100%" height="auto">
 
 # disnakeBetter
 
